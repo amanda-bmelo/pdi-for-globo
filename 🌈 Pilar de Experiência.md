@@ -1,5 +1,5 @@
 *Recorrência mensal*
-- [ ] Tarefa 1
+- [x] Tarefa 1
 
 
 ```pusheenbar
@@ -7,10 +7,11 @@ auto
 ```
 
 ## ✨ Front-end
-### 🙅🏻‍♀️ Espaçamento e alinhamento
-- [ ] Ler um material sobre o assunto
-- [ ] Mapear melhores práticas para TVs
+### 🙅🏻‍♀️ Código
+- [ ] Ler um material sobre o alinhamento e espaçamento
+- [ ] Mapear melhores práticas de CSS para TVs
 - [ ] Criar documentação de lições aprendidas
+- [ ] Estudar soluções sobre Componetização do player
 
 ### 🎨 Design System
 - [ ] Conversar com Amanda de UX
@@ -19,7 +20,7 @@ auto
 - [ ] Criar arquivo para reunir as cores do projeto
 
 ### 🔮 Animações
-- [ ] Investigar animações com CSS para TVs ordinárias
+- [ ] Investigar animações com CSS para TVs High End
 - [ ] Estudar aplicações no player
 - [ ] Criar uma documentação com sugestões e aprendizados
 
@@ -32,16 +33,26 @@ auto
 - [ ] Tizen studio
 
 ### 🔍 Conhecimentos gerais sobre TVs
-- [ ] Capabilities
+- [ ] O que são TVs low end?
+- [ ] O que são TVs middle end?
+- [ ] O que são TVs high end?
+- [ ] DVR em TVs
 - [ ] App Slim / Smart App
 
 
 ## 📽️ Clappr
 
+- [ ] Design pattern: observer
+- [ ] Arquitetura do clappr
+
 ### 📟 Plugins
 - [ ] Estudar plugins do clappr
 
 
-## 📋 Git
+## 📋 Git e Processos de código
 
-- [ ] Estudar  conceitos de git avançados
+- [ ] Estudar  conceitos de git
+- [ ] Estudar formas de code review: criar uma checklist
+- [ ] Validar checklist de code review com demais colegas de equipe
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR&NODEMO=)
+- [Tutorial W3 School](https://www.w3schools.com/git/)
