@@ -34,3 +34,14 @@ auto
 ### 🔍 Conhecimentos gerais sobre TVs
 - [ ] Capabilities
 - [ ] App Slim / Smart App
+
+
+## 📽️ Clappr
+
+### 📟 Plugins
+- [ ] Estudar plugins do clappr
+
+
+## 📋 Git
+
+- [ ] Estudar  conceitos de git avançados
